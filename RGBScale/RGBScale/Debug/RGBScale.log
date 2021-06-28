@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\user\desktop\rgbscale\rgbscale\rgbscale\main.cpp(20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\user\desktop\rgbscale\rgbscale\rgbscale\main.cpp(21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\user\desktop\rgbscale\rgbscale\rgbscale\main.cpp(86): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\user\desktop\rgbscale\rgbscale\rgbscale\main.cpp(87): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\user\desktop\rgbscale\rgbscale\rgbscale\main.cpp(113): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  RGBScale.vcxproj -> C:\Users\user\Desktop\RGBScale\RGBScale\Debug\RGBScale.exe
+  RGBScale.vcxproj -> C:\Users\user\Desktop\RGBScale\RGBScale\Debug\RGBScale.pdb (Partial PDB)
