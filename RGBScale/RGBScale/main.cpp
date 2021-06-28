@@ -103,7 +103,8 @@ void ImageScalingDoubleLine(const char* src_file_path, const char* dst_file_path
                 point_d = point_c;
             }
 
-            int pixel_point = dst_y * dst_line_byte_num + dst_x * channel;//映射尺度变换图像数组位置偏移量    
+            int pixel_point = dst_y * dst_line_byte_num + dst_x * channel;
+
             for (int k = 0; k < channel; k++)
             {
                 dst_rgb[pixel_point + k] =
